@@ -1,0 +1,17 @@
+{
+  "name": "Đo vẽ IR40",
+  "short_name": "Đo vẽ IR40",
+  "description": "Đo vẽ mặt bằng hiện trạng với thước laser FNIRSI IR40",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1d1d1b",
+  "theme_color": "#d4a514",
+  "lang": "vi",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
